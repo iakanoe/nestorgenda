@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="logo_string">logo</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="logines">Iniciar sesión</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="no_hay_eventos">No hay eventos</string>
+    <string name="anadir">Añadir</string>
+    <string name="logoff">Cerrar sesión</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+</resources>
